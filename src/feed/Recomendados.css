@@ -1,1 +1,48 @@
-
+.recomendados {
+    margin-top: 30px;
+    margin-right: 20px;
+  }
+  
+  .recomendados_titulo {
+    color: grey;
+    font-weight: bold;
+  }
+  
+  .usuario_esquerda {
+    display: inline-flex;
+  }
+  
+  .usuario_info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 7px;
+  }
+  
+  .novo_insta {
+    color: grey;
+    font-size: 12px;
+  }
+  
+  .recomendados_usuario {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+  
+  .seguir_botao {
+    color: #0095f6;
+    font-weight: bold;
+    background: 0;
+    border: 0;
+    margin-right: 5px;
+  }
+  
+  .seguir_botao:hover {
+    color: white;
+    cursor: pointer;
+  }
+  
+  .usuario {
+    font-weight: 600;
+    font-size: 14px;
+  }

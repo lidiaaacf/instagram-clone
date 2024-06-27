@@ -1,0 +1,46 @@
+.pub {
+    width: 550px;
+    margin: 30px 40px 50px 40px;
+}
+  
+.pub_header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+  
+.pub_usuario {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bolder;
+}
+  
+.pub_usuario > span {
+    color: grey;
+    font-size: 15px;
+}
+  
+.foto > img {
+    width: 100%;
+    border-radius: 6px;
+    border: 0.6px solid rgba(128, 128, 128, 0.516);
+}
+  
+.pub_footerIcones {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+.pubIcon {
+    padding: 7px;
+    font-size: 30px;
+}
+  
+.pubIcon :hover {
+    cursor: pointer;
+}
