@@ -4,8 +4,8 @@ import Recomendados from "./Recomendados.js";
 import Guitarra from "../assets/guitarra.jpeg"
 import Dev from "../assets/amigosdevs.jpeg"
 import Minecraft from "../assets/minecraft.png"
-import Moto from "../assets/moto.jpg"
-import Hacker from "../assets/hacker.jpg"
+import Moto from "../assets/moto.jpeg"
+import Meme from "../assets/meme.jpeg"
 import "./Feed.css";
 
 function Feed() {
@@ -41,7 +41,7 @@ function Feed() {
     {
       usuario: "hacker_biel_19",
       foto:
-        Hacker,
+        Meme,
       likes: 129,
       tempo: "3d",
     },
