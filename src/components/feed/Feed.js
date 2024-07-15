@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import Publicacoes from "./publicacoes/Publicacoes.js";
-import Recomendados from "./Recomendados.js";
-import Guitarra from "../assets/guitarra.jpeg"
-import Dev from "../assets/amigosdevs.jpeg"
-import Minecraft from "../assets/minecraft.png"
-import Moto from "../assets/moto.jpeg"
-import Meme from "../assets/meme.jpeg"
+import Recomendados from "./recomendados/Recomendados.js"
+import Guitarra from "../../assets/guitarra.jpeg"
+import Dev from "../../assets/amigosdevs.jpeg"
+import Minecraft from "../../assets/minecraft.png"
+import Moto from "../../assets/moto.jpeg"
+import Meme from "../../assets/meme.jpeg"
 import "./Feed.css";
 
 function Feed() {

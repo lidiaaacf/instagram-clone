@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Home.css"
-import NavBar from './navegacao/NavBar'
-import Feed from './feed/Feed'
+import NavBar from '../../components/navegacao/NavBar'
+import Feed from '../../components/feed/Feed'
 
 function Home() {
   return (
