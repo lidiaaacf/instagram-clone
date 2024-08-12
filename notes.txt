@@ -1,0 +1,23 @@
+IMPLEMENTAR
+
+- Navegação
+- Banco de dados para cadastro e login (firestore)
+- Autenticação (auth)
+- API de fotos e vídeos para pubs (https://www.pexels.com/api/)
+
+
+NAVEGAÇÃO 
+
+- Página Inicial (refresh)
+- Pesquisar (modal com pesquisa de usuarios)
+- Explorar (pagina de galeria de fotos de videos - API)
+- Reels (pagina de galeria de videos - API)
+- Mensagens (chats - IA?)
+- Notificações (modal com notificações falsas)
+- Perfil (modal com infos do cadastro)
+
+BACKEND
+
+- firestore bd (cadastro)
+- firestore auth (login)
+- dados do login para perfil
